@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs><radialGradient id="glow"><stop stop-color="#125345"/><stop offset="1" stop-color="#071216"/></radialGradient><linearGradient id="logo" x2="1" y2="1"><stop stop-color="#31f4ea"/><stop offset="1" stop-color="#079f9b"/></linearGradient></defs>
+  <rect width="1200" height="630" fill="#071216"/><ellipse cx="1010" cy="450" rx="600" ry="480" fill="url(#glow)"/>
+  <rect x="32" y="32" width="1136" height="566" rx="24" fill="none" stroke="#294640"/>
+  <g transform="translate(66 62) scale(.47)" fill="url(#logo)"><path d="M14 25.5C12.2 22.1 14.7 18 18.6 18h18.8c4.1 0 7.8 2.2 9.8 5.8l27.7 49.7-15.2 28.1a13.2 13.2 0 0 1-20.8-3.3L14 25.5Z"/><path d="M54.2 90.4 90.5 23.7A11 11 0 0 1 100.2 18h12.2c4 0 6.5 4.3 4.6 7.8L78.7 96.6a16.8 16.8 0 0 1-29.4.1l-3.8-6.8c2.4 4.3 6.4 4.7 8.7.5Z"/></g>
+  <g font-family="Segoe UI, Arial, sans-serif"><text x="126" y="108" fill="#eff6f5" font-size="47" font-weight="700" letter-spacing="-2">econi<tspan fill="#30e0c5">.</tspan></text><text x="78" y="262" fill="#eff6f5" font-size="84" font-weight="600" letter-spacing="-4">Seu negócio</text><text x="78" y="355" fill="#30e0c5" font-size="84" font-weight="600" letter-spacing="-4">mais completo.</text><text x="80" y="420" fill="#b0c1c5" font-size="25">Vendas, estoque, clientes e gestão em um só lugar.</text><text x="80" y="540" fill="#9bdccf" font-size="20" letter-spacing="1">company.veconi.app.br</text></g>
+  <g fill="none" stroke="#397c6a" opacity=".5"><rect x="930" y="225" width="160" height="160" rx="30" transform="rotate(20 1010 305)"/><rect x="947" y="242" width="126" height="126" rx="24" transform="rotate(20 1010 305)"/></g>
+</svg>
